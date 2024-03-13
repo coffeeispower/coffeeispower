@@ -25,6 +25,7 @@ Mais algumas coisas que não tinha icone para:
 - [Spicetify](https://spicetify.app/)
 - [Vesktop](/Vencord/Vesktop)
 - Kitty
+
 A minha configuração do meu NixOS está [bem aqui](/coffee-is-power/nix-configuration)
 ### Tecnologias
 
