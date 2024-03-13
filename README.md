@@ -1,16 +1,31 @@
-### Hi there 👋
+### Wasup? 👋
 
-<!--
-**coffee-is-power/coffee-is-power** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador de 16 anos português com experiencia em java, kotlin, javascript, flutter/dart e atualmente mexo com rust para desenvolvimento web no backend, ferramentas CLI e TUI ou qualquer outra coisa que me vier a cabeça.
 
-Here are some ideas to get you started:
+Interessado em linux e NixOS e aspirante a gamedev com bevy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens de programação
+
+[![Programming languages](https://skillicons.dev/icons?i=c,css,dart,flutter,html,java,js,kotlin,nix,nodejs,ts)](https://skillicons.dev)
+
+### Frameworks/Libs
+
+[![frameworks](https://skillicons.dev/icons?i=actix,cmake,cypress,flutter,svelte,tailwind,bevy,nextjs,astro)](https://skillicons.dev)
+
+### OS, Editores de texto e Programas
+
+[![tools](https://skillicons.dev/icons?i=linux,nix,neovim,vscode,discord)](https://skillicons.dev)
+
+Mais algumas coisas que não tinha icone para:
+
+- [eww](/elkowar/eww)
+- [Hyprland](https://hyprland.org)
+- [Helix](https://helix-editor.org)
+- Firefox
+- [Spicetify](https://spicetify.app/)
+- [Vesktop](/Vencord/Vesktop)
+- Kitty
+A minha configuração do meu NixOS está [bem aqui](/coffee-is-power/nix-configuration)
+### Tecnologias
+
+[![tools](https://skillicons.dev/icons?i=cypress,git,github,idea,mysql,pnpm,postgres,redis,sentry,wasm,mongodb,githubactions)](https://skillicons.dev)
