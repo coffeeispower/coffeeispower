@@ -6,7 +6,7 @@ Interessado em linux e NixOS e aspirante a gamedev com bevy.
 
 ### Linguagens de programação
 
-[![Programming languages](https://skillicons.dev/icons?i=c,css,dart,flutter,html,java,js,kotlin,nix,nodejs,ts)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=c,css,dart,html,java,js,kotlin,nix,nodejs,ts)](https://skillicons.dev)
 
 ### Frameworks/Libs
 
