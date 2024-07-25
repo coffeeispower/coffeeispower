@@ -2,7 +2,7 @@
 
 Sou um programador de 16 anos português com experiencia em java, kotlin, javascript, flutter/dart e atualmente mexo com rust para desenvolvimento web no backend, ferramentas CLI e TUI ou qualquer outra coisa que me vier a cabeça.
 
-Interessado em linux e NixOS e aspirante a gamedev com bevy.
+Interessado em linux e NixOS
 
 ### Linguagens de programação
 
