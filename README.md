@@ -10,7 +10,7 @@ Interessado em linux e NixOS e aspirante a gamedev com bevy.
 
 ### Frameworks/Libs
 
-[![frameworks](https://skillicons.dev/icons?i=actix,cmake,cypress,flutter,svelte,tailwind,bevy,nextjs,astro)](https://skillicons.dev)
+[![frameworks](https://skillicons.dev/icons?i=actix,cmake,cypress,flutter,svelte,tailwind,astro)](https://skillicons.dev)
 
 ### OS, Editores de texto e Programas
 
