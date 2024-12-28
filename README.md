@@ -6,7 +6,7 @@ Interessado em linux e NixOS
 
 ### Linguagens de programação
 
-[![Programming languages](https://skillicons.dev/icons?i=c,css,dart,html,java,js,kotlin,nix,nodejs,ts)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=c,css,dart,html,js,nix,nodejs,ts)](https://skillicons.dev)
 
 ### Frameworks/Libs
 
