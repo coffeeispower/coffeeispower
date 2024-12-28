@@ -29,4 +29,4 @@ Mais algumas coisas que não tinha icone para:
 A minha configuração do meu NixOS está [bem aqui](https://github.com/coffeeispower/nix-configuration)
 ### Tecnologias
 
-[![tools](https://skillicons.dev/icons?i=cypress,git,github,idea,mysql,pnpm,postgres,redis,sentry,wasm,mongodb,githubactions)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=git,github,idea,mysql,pnpm,postgres,redis,sentry,wasm,mongodb,githubactions)](https://skillicons.dev)
