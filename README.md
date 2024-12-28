@@ -10,7 +10,7 @@ Interessado em linux e NixOS
 
 ### Frameworks/Libs
 
-[![frameworks](https://skillicons.dev/icons?i=actix,cmake,cypress,flutter,svelte,tailwind,astro)](https://skillicons.dev)
+[![frameworks](https://skillicons.dev/icons?i=actix,flutter,svelte,tailwind)](https://skillicons.dev)
 
 ### OS, Editores de texto e Programas
 
