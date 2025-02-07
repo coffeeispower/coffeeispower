@@ -19,7 +19,7 @@ Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せます
 
 Mais algumas coisas que não tinha icone para:
 
-- [eww](/elkowar/eww)
+- [AGS](/aylur/ags)
 - [Hyprland](https://hyprland.org)
 - [Helix](https://helix-editor.org)
 - Firefox
