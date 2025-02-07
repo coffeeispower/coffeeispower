@@ -19,12 +19,12 @@ Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せます
 
 Mais algumas coisas que não tinha icone para:
 
-- [AGS](/aylur/ags)
+- [AGS](https://github.com/aylur/ags)
 - [Hyprland](https://hyprland.org)
 - [Helix](https://helix-editor.org)
 - Firefox
 - [Spicetify](https://spicetify.app/)
-- [Vesktop](/Vencord/Vesktop)
+- [Vesktop](https://github.com/Vencord/Vesktop)
 - Kitty
 
 A minha configuração do meu NixOS está [bem aqui](https://github.com/coffeeispower/nix-configuration)
