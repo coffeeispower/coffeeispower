@@ -11,7 +11,7 @@ Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せます
 
 ### Frameworks/Libs
 
-[![frameworks](https://skillicons.dev/icons?i=actix,flutter,svelte,tailwind)](https://skillicons.dev)
+[![frameworks](https://skillicons.dev/icons?i=actix,flutter,svelte,react,tailwind)](https://skillicons.dev)
 
 ### OS, Editores de texto e Programas
 
