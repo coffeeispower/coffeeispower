@@ -1,6 +1,6 @@
 ### Wasup? 👋
 
-Sou um programador de 17 anos português com experiencia em java, kotlin, javascript/typescript, flutter/dart e rust.
+Sou um programador de 17 anos português com experiencia em javascript/typescript, flutter/dart e rust.
 
 Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せますよ!　いつか日本に行きたい
 ### Linguagens de programação
