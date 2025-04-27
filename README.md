@@ -2,9 +2,7 @@
 
 Sou um programador de 17 anos português com experiencia em java, kotlin, javascript/typescript, flutter/dart e rust.
 
-Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せますよ!　いつか日本に行きたいです  
-まぁ、今はもう日本語で話していますから、日本語でも自己紹介してみるかな  
-私は17歳のポルトガル人のプログラマーでJava/Kotlinと、Javascript/Typescriptと, Flutter/DartとRustの経験があります。よろしくお願いします!  
+Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せますよ!　いつか日本に行きたい
 ### Linguagens de programação
 
 [![Programming languages](https://skillicons.dev/icons?i=c,css,dart,html,js,nix,nodejs,ts,rust)](https://skillicons.dev)
