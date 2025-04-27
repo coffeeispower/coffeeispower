@@ -29,3 +29,6 @@ A minha configuração do meu NixOS está [bem aqui](https://github.com/coffeeis
 ### Tecnologias
 
 [![tools](https://skillicons.dev/icons?i=git,github,mysql,bun,postgres,redis,sentry,mongodb,githubactions)](https://skillicons.dev)
+
+
+**AVISO:** Cada tecnologia aqui eu tenho diferentes niveis de proficiencia e de familiaridade, eu não necessáriamente sei tudo que á aqui, apenas o suficiente pra fazer aquilo que eu precisei de usar certa ferramenta pra fazer
