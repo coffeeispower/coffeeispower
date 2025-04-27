@@ -13,7 +13,7 @@ Interessado em Linux, NixOS e 🇯🇵 Japão. はい、日本語も話せます
 
 ### OS, Editores de texto e Programas
 
-[![tools](https://skillicons.dev/icons?i=linux,nix,neovim,vscode,discord)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=linux,nix,discord)](https://skillicons.dev)  [<img width="50" src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstable-app-logo.9b5f959f.png&w=384&q=75"/>](https://zed.dev)
 
 Mais algumas coisas que não tinha icone para:
 
@@ -28,4 +28,4 @@ Mais algumas coisas que não tinha icone para:
 A minha configuração do meu NixOS está [bem aqui](https://github.com/coffeeispower/nix-configuration)
 ### Tecnologias
 
-[![tools](https://skillicons.dev/icons?i=git,github,idea,mysql,pnpm,postgres,redis,sentry,wasm,mongodb,githubactions)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=git,github,mysql,bun,postgres,redis,sentry,mongodb,githubactions)](https://skillicons.dev)
